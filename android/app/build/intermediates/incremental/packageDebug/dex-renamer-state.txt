@@ -1,0 +1,4 @@
+#Sat May 05 21:03:27 IST 2018
+base.0=/home/vineesh/Documents/RN/ToDo/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/vineesh/Documents/RN/ToDo/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
