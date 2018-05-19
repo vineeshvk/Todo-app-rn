@@ -17,16 +17,16 @@ $ npm i -g react-native-cli
 
 ##### watchman:
 
-```
-$ brew install watchman
-```
+>[Install watchman](https://facebook.github.io/watchman/docs/install.html)
 
-##### clone this repo:
+##### after cloning this repo:
 
 ```
-$ cd react-native-todo
+$ cd Todo-app
 $ npm install
 $ react-native run-android
+          (or)
+$ react-native run-ios
 ```
 
 >Open the directory in the text editor of your choice.
